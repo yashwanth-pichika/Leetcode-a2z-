@@ -21,12 +21,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0394-decode-string) |
+| [0856-score-of-parentheses](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0856-score-of-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0394-decode-string) |
+| [0856-score-of-parentheses](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0856-score-of-parentheses) |
 ## Recursion
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0394-decode-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
