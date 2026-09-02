@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0005-longest-palindromic-substring) |
 | [0394-decode-string](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0856-score-of-parentheses) |
 ## Stack
@@ -38,4 +39,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0856-score-of-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
