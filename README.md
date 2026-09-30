@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0005-longest-palindromic-substring) |
 | [0394-decode-string](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0856-score-of-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Stack
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0856-score-of-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Recursion
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0856-score-of-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Two Pointers
 |  |
