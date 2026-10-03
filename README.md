@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0038-count-and-say) |
 | [0394-decode-string](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0856-score-of-parentheses) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0856-score-of-parentheses) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0032-longest-valid-parentheses) |
 ## Manacher
 |  |
 | ------- |
