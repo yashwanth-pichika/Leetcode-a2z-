@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0347-top-k-frequent-elements](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0347-top-k-frequent-elements) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bit Manipulation
 |  |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0450-delete-node-in-a-bst) |
+## Sliding Window
+|  |
+| ------- |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
