@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0347-top-k-frequent-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0347-top-k-frequent-elements](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0347-top-k-frequent-elements) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bit Manipulation
 |  |
@@ -88,4 +90,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/2390-removing-stars-from-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
