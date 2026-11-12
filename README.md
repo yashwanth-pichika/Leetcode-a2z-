@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0347-top-k-frequent-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0347-top-k-frequent-elements](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0347-top-k-frequent-elements) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0049-group-anagrams) |
 | [0394-decode-string](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0856-score-of-parentheses) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
