@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0054-spiral-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0347-top-k-frequent-elements](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0347-top-k-frequent-elements) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0054-spiral-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
 |  |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
