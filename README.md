@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0101-symmetric-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0101-symmetric-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0450-delete-node-in-a-bst) |
 ## Sliding Window
 |  |
@@ -143,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0054-spiral-matrix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
