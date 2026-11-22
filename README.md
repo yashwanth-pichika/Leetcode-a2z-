@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/yashwanth-pichika/Leetcode-a2z-/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
